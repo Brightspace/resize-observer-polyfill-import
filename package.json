@@ -1,0 +1,12 @@
+{
+  "name": "resize-observer-polyfill-import",
+  "main": "resize-observer.html",
+  "dependencies": {
+    "resize-observer-polyfill": "^1.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brightspace/resize-observer-polyfill-import.git"
+  },
+  "author": "D2L Corporation",
+}
