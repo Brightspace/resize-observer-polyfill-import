@@ -1,0 +1,11 @@
+{
+  "name": "d2l-resize-observer-polyfill-import",
+  "authors": [
+    "D2L Corporation"
+  ],
+  "description": "A resize observer HTML Import for D2L",
+  "main": "resize-observer.html",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/Brightspace/resize-observer-polyfill-import",
+  "dependencies": {}
+}
