@@ -10,5 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/Brightspace/resize-observer-polyfill-import.git"
   },
-  "author": "D2L Corporation"
+  "author": "D2L Corporation",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "rollup": "^0.64.1",
+    "rollup-plugin-babel": "^3.0.7",
+    "rollup-plugin-buble": "^0.19.2"
+  }
 }
