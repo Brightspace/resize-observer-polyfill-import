@@ -1,5 +1,3 @@
-# resize-observer-polyfill-import
-Provides an HTML import for https://github.com/que-etc/resize-observer-polyfill
+This repo is archived, as it should only be needed in Polymer 1 or 2 applications.
 
-# Installation
-Install using `bower install --save Brightspace/resize-observer-polyfill-import`. This will add the package to the dependencies in `bower.json`.
+For Polymer 3, use [the polyfill](https://github.com/que-etc/resize-observer-polyfill) directly.
